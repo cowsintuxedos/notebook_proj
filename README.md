@@ -3,7 +3,7 @@ Open `notebookv1/index.html` to load a local version of the website.
 
 See `design_document.pdf` instead, for most of the design details/user evaluation/concepts.  
 
-For the art itself: [instagram.com/mzcxla](instagram)    
+For the art itself: [instagram](https://www.instagram.com/mzcxla/)    
 There are two parts to this - the README.md describes some of the coding shit I tried, the PDF describes the other stuff - user experience and whatever. Some parts don't display - especially in `Locations` and `Characters` - because the images are hosted on a webserver, and I couldn't find an easy way to make it work over local.  
 
 ## Character Scripts // command line client setup
