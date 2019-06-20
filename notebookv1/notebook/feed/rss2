@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" version="2.0">
+  <channel>
+    <title>mzcxla</title>
+    <link>http://www.mzcxla.com</link>
+    <description />
+    <atom:link href="http://www.mzcxla.com/feed/rss2" type="application/rss+xml" rel="self" />
+    <item>
+      <title>kek</title>
+      <link>http://www.mzcxla.com/kek</link>
+      <description />
+      <pubDate>Wed, 12 Jun 2019 01:56:27 GMT</pubDate>
+      <author>klonoa.alt@gmail.com (klonoa alt)</author>
+      <guid>http://www.mzcxla.com/kek</guid>
+      <g-custom:tags type="string" />
+    </item>
+  </channel>
+</rss>

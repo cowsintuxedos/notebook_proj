@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jun 2019 01:54:58 at https://www.mzcxla.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mzcxla.com/ -O1 "C:\Users\phant\Desktop\sbwork\s19\cs185\notebook\notebookv1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:55:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://app.multiscreenstore.com/script.js
+01:55:21	Error: 	"Bad Request" (400) at link https://www.mzcxla.com/_dm/s/rt/actions/cacheKey (from https://www.mzcxla.com/)
+01:55:21	Warning: 	Moved Permanently for www.mzcxla.com/robots.txt
+01:55:21	Warning: 	Redirected link is identical because of 'URL Hack' option: www.mzcxla.com/robots.txt and https://www.mzcxla.com/robots.txt
+01:55:21	Warning: 	Warning moved treated for www.mzcxla.com/robots.txt (real one is https://www.mzcxla.com/robots.txt)
+01:55:29	Error: 	"Not Found" (404) at link https://www.mzcxla.com/Quote.svg (from https://www.mzcxla.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 59 links scanned, 55 files written (7861184 bytes overall) [6452715 bytes received at 174397 bytes/sec], 1835039 bytes transferred using HTTP compression in 30 files, ratio 21%, 1.1 requests per connection
+(2 errors, 4 warnings, 0 messages)
